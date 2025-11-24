@@ -7,6 +7,10 @@ My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling,
 
 ---
 
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
 ## 🔧 Core Skills
 
 - **Cloud Platforms:** AWS, Azure  
@@ -48,11 +52,6 @@ My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling,
 
 ---
 
-
-![](https://komarev.com/ghpvc/?username=venkatesh-thom)
-
-
-
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -60,6 +59,9 @@ My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling,
   <img src="https://nirzak-streak-stats.vercel.app/?user=Venkatesh359&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh359&theme=dark&hide_border=false&layout=compact" />
 </div>  
+
+
+
 
 Thank you for visiting my profile!
 
