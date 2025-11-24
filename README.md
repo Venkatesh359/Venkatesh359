@@ -14,7 +14,7 @@ My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling,
 ## 🔧 Core Skills
 
 - **Cloud Platforms:** AWS, Azure  
-- **IaC:** Terraform, ARM/Bicep, CloudFormation (basic)  
+- **IaC:** Terraform,  CloudFormation   
 - **Configuration Management:** Ansible  
 - **Containers:** Docker, Docker Compose  
 - **Orchestration:** Kubernetes (AKS/EKS basics)  
@@ -47,7 +47,7 @@ My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling,
 
 ## 📬 Contact
 - **GitHub:** https://github.com/venkatesh-thom  
-- **LinkedIn:** https://www.linkedin.com/in/venkatesh-thommandru/ 
+<!-- - **LinkedIn:** https://www.linkedin.com/in/venkatesh-thommandru/  -->
 <!-- - **Email:** tvenky359@gmail.com  -->
 
 ---
