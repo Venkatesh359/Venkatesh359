@@ -41,12 +41,25 @@ My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling,
 
 ---
 
-
 ## 📬 Contact
 - **GitHub:** https://github.com/venkatesh-thom  
 - **LinkedIn:** https://linkedin.com/in/venkatesh-thom  
-- **Email:** venkatesh@example.com (replace with your actual email)
+<!-- - **Email:** tvenky359@gmail.com  -->
 
 ---
 
+
+![](https://komarev.com/ghpvc/?username=venkatesh-thom)
+
+
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh359&show_icons=true&theme=radical" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Venkatesh359&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh359&theme=dark&hide_border=false&layout=compact" />
+</div>  
+
 Thank you for visiting my profile!
+
