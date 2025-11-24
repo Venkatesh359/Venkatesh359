@@ -43,7 +43,7 @@ My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling,
 
 ## 📬 Contact
 - **GitHub:** https://github.com/venkatesh-thom  
-- **LinkedIn:** https://linkedin.com/in/venkatesh-thom  
+- **LinkedIn:** https://www.linkedin.com/in/venkatesh-thommandru/ 
 <!-- - **Email:** tvenky359@gmail.com  -->
 
 ---
