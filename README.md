@@ -61,6 +61,11 @@ My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-thom&theme=dark&hide_border=false&layout=compact" />
 </div>  
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=venkatesh-thom&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=venkatesh-thom&icon=6&color=2)](https://visitcount.itsvg.in)
 
 
 
