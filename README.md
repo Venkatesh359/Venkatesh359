@@ -1,14 +1,38 @@
-# 👋 Venkatesh Thommandru
+# Venkatesh Thommandru
 
-## DevOps Engineer | Cloud | Automation
+## 🚀 About Me
 
-I am a DevOps Engineer focused on building reliable, scalable, and automated cloud infrastructure across AWS and Azure.  
-My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling, and production‑ready deployments.
+- 💼 DevOps Engineer with **6.5 years of hands-on experience**
+- ☁️ Strong expertise in **AWS Cloud services**
+- 🔁 Built and managed **CI/CD pipelines using Jenkins**
+- 🐳 Containerized applications using **Docker**
+- ☸️ Deployed and managed workloads on **Kubernetes**
+- 🧱 Automated infrastructure using **Terraform & Ansible**
+- 🔐 Improved cloud security with **IAM best practices**
+- ⚡ Passionate about automation, reliability, and scalability
 
 ---
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+## 🛠 Tech Stack
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🚀 DevOps Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-EE0000?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-EE0000?style=for-the-badge&logo=Grafana&logoColor=white)
+
+### 💻 Version Control & OS
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 
 ## 🔧 Core Skills
@@ -55,10 +79,12 @@ My work involves Infrastructure as Code, CI/CD automation, cloud-native tooling,
 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=venkatesh-thom&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=venkatesh-thom&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-thom&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh-thom&theme=tokyo-night&hide_border=true" />
+</p>
+)
 
 
 ### 🔝 Top Contributed Repo
