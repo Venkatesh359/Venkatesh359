@@ -5,9 +5,10 @@
 # 👋 Hi, I'm Venkatesh Thommandru
 ### Senior DevOps Engineer | AWS | Kubernetes | Terraform
 
-🚀 DevOps Engineer with **6.5+ years of experience** designing, automating, and operating **highly available, production-grade cloud infrastructure** on AWS.
+🚀 Senior DevOps Engineer with 6.5+ years of experience designing, automating, and operating production-grade AWS and Kubernetes infrastructure.
 
-I specialize in building **scalable Kubernetes platforms, secure multi-account AWS architectures, and automated CI/CD pipelines** that improve reliability, reduce deployment time, and enhance security posture.
+
+I specialize in building scalable Kubernetes platforms and secure AWS infrastructure using Infrastructure as Code and CI/CD automation.
 
 ---
 
@@ -54,7 +55,7 @@ I specialize in building **scalable Kubernetes platforms, secure multi-account A
 * IAM Least Privilege
 * Secrets Management
 * Container Security
-* Security Scanning Integration
+* Integrated security checks into CI/CD pipelines
   
 
 ### 📊 Observability & Reliability
@@ -71,7 +72,8 @@ I specialize in building **scalable Kubernetes platforms, secure multi-account A
 ---
 
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh-thom&theme=tokyo-night&hide_border=true" />
