@@ -14,7 +14,7 @@ I specialize in building scalable Kubernetes platforms and secure AWS infrastruc
 
 ## 💼 Professional Snapshot
 
-* ☁️ Designed and managed **AWS infrastructure (multi-account strategy)**
+* ☁️ Designed and managed **AWS infrastructure**
 * ☸️ Built and operated **production-grade EKS clusters**
 * 🔁 Implemented **end-to-end CI/CD pipelines (Jenkins, GitHub Actions, ArgoCD)**
 * 🧱 Automated infrastructure using **Terraform & Ansible**
