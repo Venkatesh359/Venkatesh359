@@ -32,38 +32,43 @@ I specialize in building **scalable Kubernetes platforms, secure multi-account A
 
 ### 🧱 Infrastructure as Code
 
-* Terraform
-* Ansible
+* Terraform (Modules, Remote State, Workspaces)
+* Ansible Automation
+* Infrastructure Versioning Strategy
 
-### 🐳 Containers & Orchestration
+### ☸️ Kubernetes & Containers
 
-* Docker
-* Kubernetes
-* Helm
-* ArgoCD
+* Kubernetes RBAC & Security
+* Helm & GitOps (ArgoCD)
+* Docker Image Optimization
 
-### 🔁 CI/CD & DevOps
 
-* Jenkins
+### 🔁 CI/CD & Release Engineering
+
+* Jenkins Pipelines (Declarative & Scripted)
 * GitHub Actions
-* GitOps workflows
-* Branching strategies & release management
+* GitOps Deployment Model
+* Blue-Green & Rolling Deployments
 
-### 📊 Monitoring & Observability
+### 🔐 DevSecOps & Governance
+* IAM Least Privilege
+* Secrets Management
+* Container Security
+* Security Scanning Integration
+  
 
-* Prometheus
-* Grafana
+### 📊 Observability & Reliability
+* Prometheus & Grafana
 * CloudWatch
 * ELK Stack
+* Production Incident Troubleshooting
 
 ### 💻 OS & Scripting
-
 * Linux
 * Bash
 * Python
 
 ---
-
 
 
 ## 📈 GitHub Stats
