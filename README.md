@@ -82,7 +82,6 @@ I specialize in building **scalable Kubernetes platforms, secure multi-account A
 ## 📬 Connect With Me
 
 * 🔗 **LinkedIn:** [https://www.linkedin.com/in/venkatesh-thommandru/](https://www.linkedin.com/in/venkatesh-thommandru/)
-* 💻 **GitHub:** [https://github.com/venkatesh-thom](https://github.com/venkatesh-thom)
 * 📧 **Email:** [tvenky359@gmail.com](mailto:tvenky359@gmail.com)
 
 ---
