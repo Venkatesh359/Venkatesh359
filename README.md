@@ -37,15 +37,14 @@
 
 ## 🔧 Core Skills
 
-- **Cloud Platforms:** AWS, Azure  
-- **IaC:** Terraform,  CloudFormation   
-- **Configuration Management:** Ansible  
+- **Cloud Platforms:** AWS (IAM, VPC, EC2, EKS, S3, ALB/NLB, CloudFront, Route53, ACM, CloudWatch, Secrets Manager)
+- **IaC:** Terraform ,Ansible
 - **Containers:** Docker, Docker Compose  
-- **Orchestration:** Kubernetes (AKS/EKS basics)  
-- **CI/CD:** Azure DevOps Pipelines, GitHub Actions  
+- **Orchestration:** Kubernetes , 
+- **CI/CD:** GitHub Actions, Jenkins, Argo CD
 - **Version Control:** Git, GitHub  
 - **OS & Scripting:** Linux, Bash, Python  
-- **Monitoring & Logging:** CloudWatch
+- **Monitoring & Logging:**: CloudWatch, Prometheus, Grafana, ELK Stack
 
 ---
 
