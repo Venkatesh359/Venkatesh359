@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/venkatesh-thom/venkatesh-thom/main/devops-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/venkatesh-thom/venkatesh-thom/dev/devops.png" width="100%" />
 </p>
 
 # 👋 Hi, I'm Venkatesh Thommandru
