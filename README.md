@@ -1,8 +1,9 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venkatesh-thom/venkatesh-thom/main/devops-banner.png" width="100%" />
+</p>
 
 # 👋 Hi, I'm Venkatesh Thommandru
-
-### Senior DevOps Engineer | AWS | Kubernetes | Terraform | Platform Engineering
+### Senior DevOps Engineer | AWS | Kubernetes | Terraform
 
 🚀 DevOps Engineer with **6.5+ years of experience** designing, automating, and operating **highly available, production-grade cloud infrastructure** on AWS.
 
