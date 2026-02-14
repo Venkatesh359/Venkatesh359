@@ -22,16 +22,6 @@ I specialize in building **scalable Kubernetes platforms, secure multi-account A
 
 ---
 
-## 🏗 Architecture I’ve Built
-
-✔️ High-Availability EKS clusters with Auto Scaling & IRSA
-✔️ Multi-environment deployment strategy (Dev / QA / Prod)
-✔️ GitOps-based Kubernetes deployment model
-✔️ Infrastructure-as-Code driven AWS provisioning
-✔️ Centralized monitoring & logging stack
-✔️ Secure networking using VPC, ALB/NLB, Route53, ACM
-
----
 
 ## 🛠 Technical Expertise
 
@@ -73,16 +63,7 @@ I specialize in building **scalable Kubernetes platforms, secure multi-account A
 
 ---
 
-## 📌 Core Strengths
 
-* Platform Engineering mindset
-* Infrastructure Reliability & High Availability
-* DevSecOps & IAM Governance
-* Cost Optimization in AWS
-* Kubernetes Security & RBAC
-* Production Incident Troubleshooting
-
----
 
 ## 📈 GitHub Stats
 
