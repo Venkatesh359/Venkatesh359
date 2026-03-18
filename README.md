@@ -44,7 +44,7 @@ Senior DevOps Engineer with 6.5+ years building secure, production-grade cloud-n
 
 ### 🔁 CI/CD & GitOps
 
-* Jenkins Pipelines (Declarative & Scripted)
+* Jenkins Pipelines 
 * GitHub Actions
 * GitOps Deployment Model
 * Blue-Green & Rolling Deployments
@@ -82,7 +82,7 @@ Senior DevOps Engineer with 6.5+ years building secure, production-grade cloud-n
 ## 📬 Connect With Me
 
 * 🔗 **LinkedIn:** [https://www.linkedin.com/in/venkatesh-thommandru/](https://www.linkedin.com/in/venkatesh-thommandru/)
-* 📧 **Email:** [tvenky359@gmail.com](mailto:tvenky359@gmail.com)
+* 📧 **Email:** [venkatesh.thomm@gmail.com](mailto:venkatesh.thomm@gmail.com)
 
 ---
 
