@@ -73,7 +73,7 @@ Senior DevOps Engineer with 6.5+ years building secure, production-grade cloud-n
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh-thom&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh-thomm&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
