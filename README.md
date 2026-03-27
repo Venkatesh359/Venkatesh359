@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/venkatesh-thom/venkatesh-thom/dev/devops.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/venkatesh-thom/venkatesh-thomm/dev/devops.png" width="100%" />
 </p>
+
 
 # 👋 Hi, I'm Venkatesh Thommandru
 
@@ -80,7 +81,7 @@ Senior DevOps Engineer with 6.5+ years building secure, production-grade cloud-n
 
 ## 📬 Connect With Me
 
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/venkatesh-thommandru/](https://www.linkedin.com/in/venkatesh-thommandru/)
+
 * 📧 **Email:** [venkatesh.thomm@gmail.com](mailto:venkatesh.thomm@gmail.com)
 
 ---
