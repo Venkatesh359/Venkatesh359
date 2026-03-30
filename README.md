@@ -2,75 +2,81 @@
   <img src="https://raw.githubusercontent.com/venkatesh-thomm/venkatesh-thomm/dev/devops.png" width="100%" />
 </p>
 
-
 # 👋 Hi, I'm Venkatesh Thommandru
 
-### Senior DevOps Engineer | AWS | Kubernetes | Terraform
+### Senior DevOps / Platform Engineer (6+ Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD | DevSecOps | FinOps
 
-Senior DevOps Engineer with **6.5+** years building secure, production-grade cloud-native platforms. I deliver scalable Kubernetes (EKS) platforms, secure AWS architectures, and repeatable infrastructure via IaC and automated CI/CD.
+Senior DevOps / Platform Engineer with **6.5+ years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
+Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation, and DevSecOps**, with a strong focus on **cost optimization and system reliability**.
+
+---
+
+## 📊 Key Achievements
+- 🚀 Improved CI/CD pipeline performance by **40%**
+- 💰 Reduced AWS cloud costs by **25–35%** using FinOps strategies
+- ⚡ Achieved **99.9% uptime** for production systems
+- 🔐 Strengthened platform security using **IRSA, RBAC, and DevSecOps practices**
 
 ---
 
 ## 🚀 What I Deliver
 
-* ☁️ AWS Architectures - **VPC design, IAM strategy, ALB/NLB, RDS, S3, CloudFront, Route 53**
-* ☸️ Enterprise Kubernetes Platforms (EKS) –**Autoscaling, RBAC, network policies, Helm-based deployments**
-* 🔁 Automated CI/CD Pipelines – **Jenkins, GitHub Actions, Argo CD with blue-green deployment**
-* 🧱 Infrastructure as Code (IaC) – **Modular Terraform, remote state, CI-driven approvals**
-* 🔐 DevSecOps – **Least-privilege IAM, secrets management, image scanning, policy-as-code**
-* 📊 Observability & Reliability - **Prometheus, Grafana, CloudWatch**
-
+* ☁️ AWS Architectures – **VPC design, IAM strategy, ALB/NLB, RDS, S3, CloudFront, Route 53**
+* ☸️ Kubernetes (EKS) Platforms – **Autoscaling, RBAC, IRSA, network policies, Helm deployments**
+* 🔁 CI/CD Automation – **GitHub Actions, Jenkins, ArgoCD (GitOps), blue-green deployments**
+* 🧱 Infrastructure as Code – **Reusable Terraform modules, remote state, CI-driven workflows**
+* 🔐 DevSecOps – **Least-privilege IAM, secrets management, Trivy scanning, policy enforcement**
+* 📊 Observability – **Prometheus, Grafana, CloudWatch dashboards & alerting**
 
 ---
-
 
 ## 🛠 Technical Stack
 
 ### ☁️ Cloud 
-
-* AWS: IAM, VPC, EC2, EKS, S3, RDS, ALB/NLB, CloudFront, Route 53, ACM, CloudWatch, Secrets Manager
+- AWS: IAM, VPC, EC2, EKS, S3, RDS, ALB/NLB, CloudFront, Route 53, ACM, CloudWatch, Secrets Manager
 
 ### 🧱 Infrastructure as Code
-* Terraform (Modules, Remote State, Workspaces)
-* Ansible Automation
-* Infrastructure Versioning Strategy
+- Terraform (Modules, Remote State, Workspaces)
+- Ansible Automation
+- Infrastructure Versioning Strategy
 
 ### ☸️ Containers & Orchestration
-
-* Kubernetes RBAC & Security
-* Helm & GitOps (ArgoCD)
-* Docker Image Optimization
-
+- Kubernetes (EKS) – RBAC, IRSA, security best practices
+- Helm & GitOps (ArgoCD) – automated deployments & rollback
+- Docker – multi-stage builds & image optimization
 
 ### 🔁 CI/CD & GitOps
-
-* Jenkins Pipelines 
-* GitHub Actions
-* GitOps Deployment Model
-* Blue-Green & Rolling Deployments
+- Jenkins – multi-branch pipelines & automation
+- GitHub Actions – secure workflows with OIDC
+- GitOps deployment model using ArgoCD
+- Blue-Green & Rolling deployment strategies
 
 ### 🔐 DevSecOps & Governance
-* IAM Least Privilege
-* Secrets Management
-* Container Security
-* Integrated security checks into CI/CD pipelines
-  
+- IAM least privilege & access control
+- Secrets management (AWS Secrets Manager)
+- Container image scanning (Trivy)
+- Security enforcement in CI/CD pipelines
 
 ### 📊 Observability 
-* Prometheus & Grafana
-* CloudWatch
-
+- Prometheus & Grafana – metrics & alerting
+- AWS CloudWatch – logs, alarms, dashboards
 
 ### 💻 OS & Scripting
-* Linux
-* Bash
-* Python
+- Linux (Amazon Linux, Ubuntu)
+- Bash scripting
+- Python
 
 ---
 
+## 📌 Featured Projects
+- 🔹 EKS Terraform GitHub Actions CI/CD Platform  
+- 🔹 Jenkins Multi-Branch CI/CD (Production Setup)  
+- 🔹 AWS 3-Tier Infrastructure using Terraform  
+- 🔹 Kubernetes Stateful & Stateless Deployments  
+
+---
 
 ## 📈 GitHub Activity 
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh-thomm&theme=tokyo-night&hide_border=true" />
@@ -80,9 +86,6 @@ Senior DevOps Engineer with **6.5+** years building secure, production-grade clo
 
 ## 📬 Connect With Me
 
-
-* 📧 **Email:** [venkatesh.thomm@gmail.com](mailto:venkatesh.thomm@gmail.com)
+- 📧 Email: [venkatesh.thomm@gmail.com](mailto:venkatesh.thomm@gmail.com)
 
 ---
-
-
