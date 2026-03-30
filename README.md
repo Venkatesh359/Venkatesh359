@@ -7,7 +7,7 @@
 
 ### Senior DevOps Engineer | AWS | Kubernetes | Terraform
 
-Senior DevOps Engineer with 6.5+ years building secure, production-grade cloud-native platforms. I deliver scalable Kubernetes (EKS) platforms, secure AWS architectures, and repeatable infrastructure via IaC and automated CI/CD.
+Senior DevOps Engineer with **6.5+** years building secure, production-grade cloud-native platforms. I deliver scalable Kubernetes (EKS) platforms, secure AWS architectures, and repeatable infrastructure via IaC and automated CI/CD.
 
 ---
 
@@ -59,8 +59,7 @@ Senior DevOps Engineer with 6.5+ years building secure, production-grade cloud-n
 ### 📊 Observability 
 * Prometheus & Grafana
 * CloudWatch
-* ELK Stack
-* Production Incident Troubleshooting
+
 
 ### 💻 OS & Scripting
 * Linux
