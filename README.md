@@ -4,11 +4,11 @@
 
 # 👋 Hi, I'm Venkatesh Thommandru
 
-### Senior DevOps / Platform Engineer (6+ Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD | DevSecOps 
+### Senior DevOps / Platform Engineer (6+ Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD 
 
 Senior DevOps / Platform Engineer with **6.5+ years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
 
-Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation, and DevSecOps**, with a strong focus on **cost optimization and system reliability**.
+Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation with a strong focus on **cost optimization and system reliability**.
 
 ---
 
@@ -16,7 +16,7 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 - 🚀 Improved CI/CD pipeline performance by **40%**
 - 💰 Reduced AWS cloud costs by **25–35%** 
 - ⚡ Achieved **99.9% uptime** for production systems
-- 🔐 Strengthened platform security using **IRSA, RBAC, and DevSecOps practices**
+- 🔐 Strengthened platform security using **IRSA, RBAC
 
 ---
 
@@ -26,7 +26,7 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 * ☸️ Kubernetes (EKS) Platforms – **Autoscaling, RBAC, IRSA, network policies, Helm deployments**
 * 🔁 CI/CD Automation – **GitHub Actions, Jenkins, ArgoCD (GitOps), blue-green deployments**
 * 🧱 Infrastructure as Code – **Reusable Terraform modules, remote state, CI-driven workflows**
-* 🔐 DevSecOps – **Least-privilege IAM, secrets management, Trivy scanning, policy enforcement**
+* 🔐 Security – **Least-privilege IAM, secrets management, Trivy scanning, policy enforcement**
 * 📊 Observability – **Prometheus, Grafana, CloudWatch dashboards & alerting**
 
 ---
@@ -52,7 +52,7 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 - GitOps deployment model using ArgoCD
 - Blue-Green & Rolling deployment strategies
 
-### 🔐 DevSecOps 
+### 🔐 Security
 - IAM least privilege & access control
 - Secrets management (AWS Secrets Manager)
 - Container image scanning (Trivy)
