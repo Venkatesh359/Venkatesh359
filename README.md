@@ -14,7 +14,7 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 
 ## 📊 Key Achievements
 - 🚀 Improved CI/CD pipeline performance by **40%**
-- 💰 Reduced AWS cloud costs by **25–35%** using FinOps strategies
+- 💰 Reduced AWS cloud costs by **25–35%** 
 - ⚡ Achieved **99.9% uptime** for production systems
 - 🔐 Strengthened platform security using **IRSA, RBAC, and DevSecOps practices**
 
@@ -52,7 +52,7 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 - GitOps deployment model using ArgoCD
 - Blue-Green & Rolling deployment strategies
 
-### 🔐 DevSecOps & Governance
+### 🔐 DevSecOps 
 - IAM least privilege & access control
 - Secrets management (AWS Secrets Manager)
 - Container image scanning (Trivy)
