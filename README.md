@@ -6,7 +6,7 @@
 
 ### Senior DevOps / Platform Engineer (6+ Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD 
 
-Senior DevOps / Platform Engineer with **6.5+ years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
+Senior DevOps / Platform Engineer with **6.11+ years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
 
 Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation with a strong focus on **cost optimization and system reliability**.
 
@@ -23,7 +23,7 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 ## 🛠 Technical Stack
 
 ### ☁️ Cloud 
-- AWS: IAM, VPC, EC2, EKS, S3, RDS, ALB/NLB, CloudFront, Route 53, ACM, CloudWatch, Secrets Manager
+- AWS: IAM, VPC, EC2, EKS, S3, ALB/NLB, CloudFront, Route 53, ACM, CloudWatch, Secrets Manager
 
 ### 🧱 Infrastructure as Code
 - Terraform (Modules, Remote State, Workspaces)
