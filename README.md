@@ -20,17 +20,6 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 
 ---
 
-## 🚀 What I Deliver
-
-* ☁️ AWS Architectures – **VPC design, IAM strategy, ALB/NLB, RDS, S3, CloudFront, Route 53**
-* ☸️ Kubernetes (EKS) Platforms – **Autoscaling, RBAC, IRSA, network policies, Helm deployments**
-* 🔁 CI/CD Automation – **GitHub Actions, Jenkins, ArgoCD (GitOps), blue-green deployments**
-* 🧱 Infrastructure as Code – **Reusable Terraform modules, remote state, CI-driven workflows**
-* 🔐 Security – **Least-privilege IAM, secrets management, Trivy scanning, policy enforcement**
-* 📊 Observability – **Prometheus, Grafana, CloudWatch dashboards & alerting**
-
----
-
 ## 🛠 Technical Stack
 
 ### ☁️ Cloud 
