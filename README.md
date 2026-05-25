@@ -78,4 +78,4 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 
 - 📧 Email: [venkatesh.thomm@gmail.com](mailto:venkatesh.thomm@gmail.com)
 
----
+
