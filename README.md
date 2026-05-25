@@ -6,7 +6,7 @@
 
 ### Senior DevOps / Platform Engineer (6+ Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD 
 
-Senior DevOps / Platform Engineer with **6.5+ years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
+Senior DevOps / Platform Engineer with **6.11+ years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
 
 Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation with a strong focus on **cost optimization and system reliability**.
 
@@ -62,10 +62,12 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 - Prometheus & Grafana – metrics & alerting
 - AWS CloudWatch – logs, alarms, dashboards
 
+
 ### 💻 OS & Scripting
 - Linux (Amazon Linux, Ubuntu)
 - Bash scripting
 - Python
+
 
 ---
 
@@ -89,4 +91,3 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 
 - 📧 Email: [venkatesh.thomm@gmail.com](mailto:venkatesh.thomm@gmail.com)
 
----
