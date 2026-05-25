@@ -1,24 +1,81 @@
-# 💫 About Me:
-<p align="center"><br>  <img src="https://raw.githubusercontent.com/venkatesh-thomm/venkatesh-thomm/dev/devops.png" width="100%" /><br></p><br><br># 👋 Hi, I'm Venkatesh Thommandru<br><br>### Senior DevOps (6+ 11 Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD <br><br>Senior DevOps  with **6.11+ years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  <br><br>Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation with a strong focus on **cost optimization and system reliability**.<br><br>---<br><br>## 📊 Key Achievements<br>- 🚀 Improved CI/CD pipeline performance by **40%**<br>- 💰 Reduced AWS cloud costs by **25–35%** <br>- ⚡ Achieved **99.9% uptime** for production systems<br>- 🔐 Strengthened platform security using **IRSA, RBAC<br><br>---<br><br>## 🛠 Technical Stack<br><br>### ☁️ Cloud <br>- AWS: IAM, VPC, EC2, EKS, S3, ALB/NLB, CloudFront, Route 53, ACM, CloudWatch, Secrets Manager<br><br>### 🧱 Infrastructure as Code<br>- Terraform (Modules, Remote State, Workspaces)<br>- Ansible Automation<br>- Infrastructure Versioning Strategy<br><br>### ☸️ Containers & Orchestration<br>- Kubernetes (EKS) – RBAC, IRSA, security best practices<br>- Helm & GitOps (ArgoCD) – automated deployments & rollback<br>- Docker – multi-stage builds & image optimization<br><br>### 🔁 CI/CD & GitOps<br>- Jenkins – multi-branch pipelines & automation<br>- GitHub Actions – secure workflows with OIDC<br>- GitOps deployment model using ArgoCD<br>- Blue-Green & Rolling deployment strategies<br><br>### 🔐 Security<br>- IAM least privilege & access control<br>- Secrets management (AWS Secrets Manager)<br>- Container image scanning (Trivy)<br>- Security enforcement in CI/CD pipelines<br><br>### 📊 Observability <br>- Prometheus & Grafana – metrics & alerting<br>- AWS CloudWatch – logs, alarms, dashboards<br><br>### 💻 OS & Scripting<br>- Linux (Amazon Linux, Ubuntu)<br>- Bash scripting<br>- Python<br><br>---<br><br>## 📌 Featured Projects<br>- 🔹 EKS Terraform GitHub Actions CI/CD Platform  <br>- 🔹 Jenkins Multi-Branch CI/CD (Production Setup)  <br>- 🔹 AWS 3-Tier Infrastructure using Terraform  <br>- 🔹 Kubernetes Stateful & Stateless Deployments  <br><br>---<br><br>## 📈 GitHub Activity <br><br><p align="center"><br>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh-thomm&theme=tokyo-night&hide_border=true" /><br></p><br><br>---<br><br>## 📬 Connect With Me<br><br>- 📧 Email: [venkatesh.thomm@gmail.com](mailto:venkatesh.thomm@gmail.com)<br><br>---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venkatesh-thomm/venkatesh-thomm/dev/devops.png" width="100%" />
+</p>
 
+# 👋 Hi, I'm Venkatesh Thommandru
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkatesh.thomm@gmail.com) 
+### Senior DevOps / Platform Engineer (6+ Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=venkatesh-thomm&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=venkatesh-thomm&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=venkatesh-thomm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Senior DevOps / Platform Engineer with **6.11+ years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=venkatesh-thomm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation with a strong focus on **cost optimization and system reliability**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=venkatesh-thomm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 Key Achievements
+- 🚀 Improved CI/CD pipeline performance by **40%**
+- 💰 Reduced AWS cloud costs by **25–35%** 
+- ⚡ Achieved **99.9% uptime** for production systems
+- 🔐 Strengthened platform security using **IRSA, RBAC
+
+---
+
+## 🛠 Technical Stack
+
+### ☁️ Cloud 
+- AWS: IAM, VPC, EC2, EKS, S3, ALB/NLB, CloudFront, Route 53, ACM, CloudWatch, Secrets Manager
+
+### 🧱 Infrastructure as Code
+- Terraform (Modules, Remote State, Workspaces)
+- Ansible Automation
+- Infrastructure Versioning Strategy
+
+### ☸️ Containers & Orchestration
+- Kubernetes (EKS) – RBAC, IRSA, security best practices
+- Helm & GitOps (ArgoCD) – automated deployments & rollback
+- Docker – multi-stage builds & image optimization
+
+### 🔁 CI/CD & GitOps
+- Jenkins – multi-branch pipelines & automation
+- GitHub Actions – secure workflows with OIDC
+- GitOps deployment model using ArgoCD
+- Blue-Green & Rolling deployment strategies
+
+### 🔐 Security
+- IAM least privilege & access control
+- Secrets management (AWS Secrets Manager)
+- Container image scanning (Trivy)
+- Security enforcement in CI/CD pipelines
+
+### 📊 Observability 
+- Prometheus & Grafana – metrics & alerting
+- AWS CloudWatch – logs, alarms, dashboards
+
+### 💻 OS & Scripting
+- Linux (Amazon Linux, Ubuntu)
+- Bash scripting
+- Python
+
+---
+
+## 📌 Featured Projects
+- 🔹 EKS Terraform GitHub Actions CI/CD Platform  
+- 🔹 Jenkins Multi-Branch CI/CD (Production Setup)  
+- 🔹 AWS 3-Tier Infrastructure using Terraform  
+- 🔹 Kubernetes Stateful & Stateless Deployments  
+
+---
+
+## 📈 GitHub Activity 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh-thomm&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 📧 Email: [venkatesh.thomm@gmail.com](mailto:venkatesh.thomm@gmail.com)
+
+---
