@@ -10,6 +10,11 @@ Senior DevOps / Platform Engineer with **6.11+ years** of experience building se
 
 Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation with a strong focus on **cost optimization and system reliability**.
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkatesh-thomm&label=Profile%20Views&color=0e75b6&style=flat" alt="venkatesh-thomm" />
+</p>
+
 ---
 
 ## 📊 Key Achievements
