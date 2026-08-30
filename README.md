@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Venkatesh Thommandru
 
-### Senior DevOps / Platform Engineer (6.11+ Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD 
+### Senior DevOps / Platform Engineer ( 7 Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD 
 
-Senior DevOps / Platform Engineer with **6.11+ years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
+Senior DevOps / Platform Engineer with **7 years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
 
 Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation with a strong focus on **cost optimization and system reliability**.
 
@@ -24,7 +24,7 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 ## 🛠 Technical Stack
 
 ### ☁️ Cloud 
-- AWS: IAM, VPC, EC2, EKS, S3, ALB/NLB, CloudFront, Route 53, ACM, CloudWatch, Secrets Manager
+- AWS: IAM, VPC, EC2, EKS, S3, ALB/NLB, CloudFront, Route 53, ACM, CloudWatch, Secrets Manager, ClodWatch
 
 ### 🧱 Infrastructure as Code
 - Terraform (Modules, Remote State, Workspaces)
@@ -72,7 +72,6 @@ Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD aut
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh-thomm&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 
 <p align="center">
