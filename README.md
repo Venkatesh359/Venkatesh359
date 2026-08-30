@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Venkatesh Thommandru
 
-### Senior DevOps / Platform Engineer ( 7 Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD 
+### DevOps / Platform Engineer ( 7 Yrs) | AWS | Kubernetes (EKS) | Terraform | CI/CD 
 
-Senior DevOps / Platform Engineer with **7 years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
+DevOps / Platform Engineer with **7 years** of experience building secure, scalable, and production-grade cloud-native platforms on AWS.  
 
 Specialized in **Kubernetes (EKS), Infrastructure as Code (Terraform), CI/CD automation with a strong focus on **cost optimization and system reliability**.
 
